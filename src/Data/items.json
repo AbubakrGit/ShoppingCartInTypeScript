@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 15 pro max",
+        "price": 1299.99,
+        "imgUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fiphone-15-pro-max-dark-red-color-details-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Neo QLED 8K",
+        "price": 4699.99,
+        "imgUrl": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/03/Best-8K-TV.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PlayStation 5",
+        "price": 499.99,
+        "imgUrl": "https://tmarket.ge/wp-content/uploads/2022/12/1-2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hyper X Keyboard RBG",
+        "price": 99.99,
+        "imgUrl": "https://beanstalk-9fcd.kxcdn.com/wp-content/uploads/2023/03/What-is-an-RGB-Keyboard.jpg"
+    }
+    
+]
